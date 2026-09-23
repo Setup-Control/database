@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="264CBCC3-18F3-9BA8-2A9C-F0275224070D">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:48:46 UTC</createdTime>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

@@ -1,0 +1,62 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="F267095B-0692-E972-3A51-FAF402E9C43D" name="Usuários">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:53:37 UTC</createdTime>
+<generatorID>C4372D72-D40D-D9A3-64BE-13ABADE5ABF2</generatorID>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="id_usuario" id="BE9DA2AD-1176-4C82-3A94-B600464EAE78">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:53:37 UTC</createdTime>
+<generatorID>A5AC35BD-36F8-BCAD-D7CD-B4E47083EF28</generatorID>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nome" id="00E5564F-2950-D0C8-562E-C2C67796FB68">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:53:37 UTC</createdTime>
+<generatorID>47AD8AE8-19B8-5D59-9A11-A6EDEEA96B41</generatorID>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="senha" id="581EB1E1-B3A6-4EF1-9C64-5750F79947B9">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:53:37 UTC</createdTime>
+<generatorID>068554F3-244E-C0F0-9AA0-1DA3B9A47975</generatorID>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30</dataTypeSize>
+<ownDataTypeParameters>30,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="19EE9923-1283-5DE2-1510-0CF9086EDB92" name="Usuários_PK">
+<createdBy>Enzo</createdBy>
+<createdTime>2026-07-13 20:53:37 UTC</createdTime>
+<generatorID>788F19FA-CA66-DA5B-0923-E4F4CBB36A54</generatorID>
+<ownerDesignName>setupcontrolbancodados</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="BE9DA2AD-1176-4C82-3A94-B600464EAE78"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

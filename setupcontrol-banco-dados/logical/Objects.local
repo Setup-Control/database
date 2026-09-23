@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="C4372D72-D40D-D9A3-64BE-13ABADE5ABF2" name="Usuários" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="E9EADC0B-07F2-E475-30FC-357A130DAD8D" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="ED7DCEEC-21EC-C028-0591-C69C654F633B" name="Computadores" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="E9EADC0B-07F2-E475-30FC-357A130DAD8D" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="Table" objectID="F0A3B083-33EF-532C-3C8B-956C40FB367D" name="Computadores" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="DDE84FD3-198D-B668-E934-4D7255478E93" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Table" objectID="F267095B-0692-E972-3A51-FAF402E9C43D" name="Usuários" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.relational.Table" propertyParentId="DDE84FD3-198D-B668-E934-4D7255478E93" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>
